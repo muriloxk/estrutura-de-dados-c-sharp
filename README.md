@@ -1,4 +1,4 @@
-# estrutura-de-dados-c-
+# estrutura-de-dados-c-sharp
 
 Estudo de estrutura de dados baseados em cursos da Alura (Estruturas de dados em Python)
 e Estrutura de Dados Descomplicada Linguagem C 
